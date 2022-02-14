@@ -1,5 +1,7 @@
 # Vue 3 Carousel
 
+<p>Fix updateSlideWidth for multiples slides</p>
+
 Modern lightweight Vue 3 carousel component
 
 <p>

@@ -248,7 +248,7 @@ export default defineComponent({
         updateBreakpointsConfigs()
         updateSlidesData()
       }
-      nextTick(() => setTimeout(updateSlideWidth, 16));
+      nextTick(() => setTimeout(updateSlideWidth, 500));
 
       if (config.autoplay && config.autoplay > 0) {
         initializeAutoplay()
